@@ -412,6 +412,13 @@ header {
   header .navbar li a {
     color: #fff;
   }
+  .contact .social {
+    align-items: center;
+    justify-content: center;
+  }
+  .contact .social i {
+    margin: 0 5px;
+  }
   .download-app {
     flex-direction: column;
   }
